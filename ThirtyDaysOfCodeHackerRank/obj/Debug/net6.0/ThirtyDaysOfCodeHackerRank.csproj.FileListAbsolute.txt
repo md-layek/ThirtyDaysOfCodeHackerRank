@@ -1,0 +1,15 @@
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\bin\Debug\net6.0\ThirtyDaysOfCodeHackerRank.exe
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\bin\Debug\net6.0\ThirtyDaysOfCodeHackerRank.deps.json
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\bin\Debug\net6.0\ThirtyDaysOfCodeHackerRank.runtimeconfig.json
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\bin\Debug\net6.0\ThirtyDaysOfCodeHackerRank.dll
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\bin\Debug\net6.0\ThirtyDaysOfCodeHackerRank.pdb
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ThirtyDaysOfCodeHackerRank.csproj.AssemblyReference.cache
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ThirtyDaysOfCodeHackerRank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ThirtyDaysOfCodeHackerRank.AssemblyInfoInputs.cache
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ThirtyDaysOfCodeHackerRank.AssemblyInfo.cs
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ThirtyDaysOfCodeHackerRank.csproj.CoreCompileInputs.cache
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ThirtyDaysOfCodeHackerRank.dll
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\refint\ThirtyDaysOfCodeHackerRank.dll
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ThirtyDaysOfCodeHackerRank.pdb
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ThirtyDaysOfCodeHackerRank.genruntimeconfig.cache
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank\obj\Debug\net6.0\ref\ThirtyDaysOfCodeHackerRank.dll
