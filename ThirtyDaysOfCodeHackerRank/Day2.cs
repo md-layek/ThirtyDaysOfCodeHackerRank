@@ -1,14 +1,3 @@
-﻿namespace ThirtyDaysOfCodeHackerRank;
-
-/*
-public class Day2
-{
-    
-}
-*/
-
-
-
 using System;
 using System.Collections.Generic;
 using System.IO;
