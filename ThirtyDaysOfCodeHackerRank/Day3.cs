@@ -1,11 +1,3 @@
-﻿/*
-namespace ThirtyDaysOfCodeHackerRank;
-
-public class Day3
-{
-    
-}
-*/
 
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
