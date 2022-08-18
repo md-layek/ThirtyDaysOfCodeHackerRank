@@ -1,4 +1,4 @@
-namespace ThirtyDaysOfCodeHackerRank;
+// namespace ThirtyDaysOfCodeHackerRank;
 
 /*
 public class Day2
