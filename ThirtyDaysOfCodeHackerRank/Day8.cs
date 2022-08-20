@@ -1,9 +1,4 @@
-﻿// namespace ThirtyDaysOfCodeHackerRank;
-//
-// public class Day8
-// {
-//     
-// }
+﻿
 
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
