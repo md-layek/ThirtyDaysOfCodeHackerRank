@@ -24,8 +24,6 @@ class Solution
 
         List<int> arr = Console.ReadLine().TrimEnd().Split(' ').ToList().Select(arrTemp => Convert.ToInt32(arrTemp)).ToList();
         
-        // int[] arr =Array.ConvertAll(arr,Int32.parse);
-        
         for(var i=n-1; i>-1; i--){
             
             Console.Write(arr[i] + " ");
