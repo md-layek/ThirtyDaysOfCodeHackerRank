@@ -5,23 +5,21 @@ class Solution {
     static void Main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
         
-        var n=int.Parse(Console.ReadLine());
-        var phoneBook=new Dictionary<string, int>();
-        for(var i=0;i < n; i++){
-            var entry=Console.ReadLine().Split(' ');
-            var name=entry[0];
-            var phone=int.Parse(entry[1]);
-            phoneBook.Add(name, phone);
+
+        int n = Int32.Parse(Console.ReadLine());
+        Dictionary <string, string> phonebook = new Dictionary <string, string>();
+        
+        for (int i=0; i<n; i++){
+            string[] line = Console.ReadLine().Split(' ');
+            phonebook[line[0]] = line[1];
         }
-        for(var i=0;i<n;i++){
-            var name=Console.ReadLine();
-            if(phoneBook.ContainsKey(name)){
-                var phone=phoneBook[name];
-                Console.WriteLine($"{name}={phone}");
-            }
-            else Console.WriteLine("Not found");
+        
+        string name;
+        while ((name = Console.ReadLine()) != null){
+            if (phonebook.ContainsKey(name))
+                Console.WriteLine(name + "=" + phonebook[name]);
+            else
+                Console.WriteLine("Not found");
         }
     }
 }
-
-
