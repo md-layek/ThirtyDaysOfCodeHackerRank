@@ -22,7 +22,7 @@ class Solution{
         int sum = myCalculator.divisorSum(n);
         Console.WriteLine("I implemented: AdvancedArithmetic\n" + sum);
         
-        //Console.WriteLine($" I implemented: AdvancedArithmetic\n: {sum} "); 
+        //Console.WriteLine($" I implemented: AdvancedArithmetic\n {sum} "); 
 
     }
 }
