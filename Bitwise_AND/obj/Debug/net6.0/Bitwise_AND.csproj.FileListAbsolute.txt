@@ -1,0 +1,15 @@
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\bin\Debug\net6.0\Bitwise_AND.exe
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\bin\Debug\net6.0\Bitwise_AND.deps.json
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\bin\Debug\net6.0\Bitwise_AND.runtimeconfig.json
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\bin\Debug\net6.0\Bitwise_AND.dll
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\bin\Debug\net6.0\Bitwise_AND.pdb
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\Bitwise_AND.csproj.AssemblyReference.cache
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\Bitwise_AND.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\Bitwise_AND.AssemblyInfoInputs.cache
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\Bitwise_AND.AssemblyInfo.cs
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\Bitwise_AND.csproj.CoreCompileInputs.cache
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\Bitwise_AND.dll
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\refint\Bitwise_AND.dll
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\Bitwise_AND.pdb
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\Bitwise_AND.genruntimeconfig.cache
+D:\Jetbrains\ThirtyDaysOfCodeHackerRank\Bitwise_AND\obj\Debug\net6.0\ref\Bitwise_AND.dll
