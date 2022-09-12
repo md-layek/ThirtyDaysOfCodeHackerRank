@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirtyDaysOfCodeHackerRank", "ThirtyDaysOfCodeHackerRank\ThirtyDaysOfCodeHackerRank.csproj", "{70B6D9B7-D40B-4286-BEF8-0959190B4CC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise_AND", "Bitwise_AND\Bitwise_AND.csproj", "{9FC6BCD1-DA03-438D-94AB-B52E7066168E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{70B6D9B7-D40B-4286-BEF8-0959190B4CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70B6D9B7-D40B-4286-BEF8-0959190B4CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70B6D9B7-D40B-4286-BEF8-0959190B4CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC6BCD1-DA03-438D-94AB-B52E7066168E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC6BCD1-DA03-438D-94AB-B52E7066168E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC6BCD1-DA03-438D-94AB-B52E7066168E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC6BCD1-DA03-438D-94AB-B52E7066168E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
